@@ -6,5 +6,4 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=huzixuan1&show_icons=true&theme=light)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzixuan1&theme=light)
 
