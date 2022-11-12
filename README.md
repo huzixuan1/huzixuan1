@@ -1,5 +1,6 @@
 ### I'm TaoTao 👋
-- 🤔 I’m looking for help with computer vision
+- ⛽ Continuous learning
+- 🤔 I'm looking for help with C++ computer vision, etc
 - 💬 We can discuss issues like C++、python、Tensorflow、Pytorch、Object Detection and Computer-Vision
 - 📫 How to reach me: 10171910168@qq.com
 
